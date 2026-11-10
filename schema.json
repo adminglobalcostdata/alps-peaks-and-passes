@@ -1,0 +1,174 @@
+{
+ "columns": [
+  {
+   "name": "id",
+   "type": "string",
+   "description": "OpenStreetMap element id (n=node, w=way, r=relation) or slug; unique within kind."
+  },
+  {
+   "name": "kind",
+   "type": "string",
+   "description": "peak, col (mountain pass) or viewpoint."
+  },
+  {
+   "name": "name",
+   "type": "string",
+   "description": "Name as tagged in OpenStreetMap."
+  },
+  {
+   "name": "lat",
+   "type": "number",
+   "description": "Latitude, decimal degrees."
+  },
+  {
+   "name": "lon",
+   "type": "number",
+   "description": "Longitude, decimal degrees."
+  },
+  {
+   "name": "country",
+   "type": "string",
+   "description": "ISO country code when the source gives it (DE, AT, CH, BE); null for records from the French source sites, which carry no country field."
+  },
+  {
+   "name": "elevation_m",
+   "type": "number",
+   "description": "Elevation in metres as tagged in OSM, null if untagged."
+  },
+  {
+   "name": "ign_elevation_m",
+   "type": "number",
+   "description": "Elevation from IGN RGE ALTI (Licence Ouverte 2.0), France only."
+  },
+  {
+   "name": "prominence_m",
+   "type": "number",
+   "description": "Topographic prominence in metres (OSM tag, rarely filled)."
+  },
+  {
+   "name": "local_relief_m",
+   "type": "number",
+   "description": "Local relief within about 2 km in metres (computed by atlas-montagne from a DEM)."
+  },
+  {
+   "name": "isolation_km",
+   "type": "number",
+   "description": "Distance to the nearest higher point in km (computed by atlas-montagne)."
+  },
+  {
+   "name": "isolation_ref",
+   "type": "string",
+   "description": "Name of that nearest higher point."
+  },
+  {
+   "name": "aspect",
+   "type": "string",
+   "description": "Slope aspect (French cardinal name)."
+  },
+  {
+   "name": "slope_deg",
+   "type": "number",
+   "description": "Local slope in degrees (computed from a DEM)."
+  },
+  {
+   "name": "direction",
+   "type": "string",
+   "description": "Viewing direction tag (viewpoints) or road direction tag (passes)."
+  },
+  {
+   "name": "massif",
+   "type": "string",
+   "description": "Massif tag when present."
+  },
+  {
+   "name": "wikidata",
+   "type": "string",
+   "description": "Wikidata QID."
+  },
+  {
+   "name": "wikipedia",
+   "type": "string",
+   "description": "Wikipedia article tag (lang:title)."
+  },
+  {
+   "name": "alt_name",
+   "type": "string",
+   "description": "Alternative name."
+  },
+  {
+   "name": "old_name",
+   "type": "string",
+   "description": "Former name."
+  },
+  {
+   "name": "commons",
+   "type": "string",
+   "description": "Wikimedia Commons reference."
+  },
+  {
+   "name": "sota_ref",
+   "type": "string",
+   "description": "Summits On The Air reference."
+  },
+  {
+   "name": "sota_points",
+   "type": "number",
+   "description": "Summits On The Air points."
+  },
+  {
+   "name": "summit_cross",
+   "type": "string",
+   "description": "Summit cross tag."
+  },
+  {
+   "name": "summit_register",
+   "type": "string",
+   "description": "Summit register tag."
+  },
+  {
+   "name": "sports",
+   "type": "array",
+   "description": "Sports tagged on the peak."
+  },
+  {
+   "name": "rock",
+   "type": "string",
+   "description": "Rock type tag."
+  },
+  {
+   "name": "volcano_status",
+   "type": "string",
+   "description": "Volcano status tag."
+  },
+  {
+   "name": "is_tower",
+   "type": "boolean",
+   "description": "Viewpoint is a tower."
+  },
+  {
+   "name": "tower_type",
+   "type": "string",
+   "description": "Tower type tag."
+  },
+  {
+   "name": "height_m",
+   "type": "number",
+   "description": "Tower height in metres (viewpoints)."
+  },
+  {
+   "name": "climbs",
+   "type": "array",
+   "description": "Road-climb sides of a pass: list of {side, length_km, ascent_m, grad_avg, grad_max, category} (atlas-montagne)."
+  },
+  {
+   "name": "profile_m",
+   "type": "array",
+   "description": "Local topographic section: 48 elevation samples in metres (atlas-montagne, from a DEM)."
+  },
+  {
+   "name": "source_sites",
+   "type": "string",
+   "description": "Source site(s) of the record, joined with +."
+  }
+ ]
+}

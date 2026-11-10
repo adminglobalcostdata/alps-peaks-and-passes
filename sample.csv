@@ -1,0 +1,101 @@
+id,kind,name,lat,lon,country,elevation_m,ign_elevation_m,prominence_m,local_relief_m,isolation_km,isolation_ref,aspect,slope_deg,direction,massif,wikidata,wikipedia,alt_name,old_name,commons,sota_ref,sota_points,summit_cross,summit_register,sports,rock,volcano_status,is_tower,tower_type,height_m,climbs,profile_m,source_sites
+n21761857,peak,Hörnli,47.37092,8.94174,CH,1133,,,,,,,,,,Q442082,,,,,,,,,,,,,,,,,alpen-atlas
+n26862464,peak,Aiguilles Rouges d'Arolla,46.05677,7.43465,CH,3646,,,,,,,,,,Q404739,,,,,,,,,,,,,,,,,alpen-atlas
+n26862474,peak,Aletschhorn,46.4652,7.99321,CH,4195,,1022,,,,,,,,Q15293,de:Aletschhorn,,,,,,,,,,,,,,,,alpen-atlas
+n26862534,peak,Basòdino,46.4116,8.46843,CH,3273,,,,,,,,,,Q16522,it:Basòdino,,,,,,,,,,,,,,,,alpen-atlas
+n26862559,peak,Bietschhorn,46.39157,7.85082,CH,3934,,,,,,,,,,Q15289,de:Bietschhorn,,,,,,,,,,,,,,,,alpen-atlas
+n26862590,peak,Blinnenhorn / Corno Cieco,46.42593,8.30776,CH,3374,,,,,,,,,,Q185990,it:Blinnenhorn,,,,,,yes,,,,,,,,,,alpen-atlas
+n26862594,peak,Blüemlisalphorn,46.4889,7.77251,CH,3663,,,,,,,,,,Q22578978,,,,,,,,,,,,,,,,,alpen-atlas
+n26862632,peak,Brienzer Rothorn,46.7871,8.04687,CH,2348,,1343,,,,,,,,Q15226,de:Brienzer Rothorn,,,,,,,,,,,,,,,,alpen-atlas
+n26862633,peak,Bristen,46.7369,8.68133,CH,3073,,,,,,,,,,Q43299,,,,,,,yes,,,,,,,,,,alpen-atlas
+n26862636,peak,Brunnistock,46.84778,8.55,CH,2952,,,,,,,,,,Q3647509,de:Brunnistock,,,,,,,,,,,,,,,,alpen-atlas
+n26862703,peak,Cima di Gagela,46.38417,9.17471,CH,2805,,,,,,,,,,Q5120057,,,,,,,,,,,,,,,,,alpen-atlas
+n26862764,peak,Dammastock,46.64345,8.42109,CH,3630,,1467,,,,,,,,Q15133,de:Dammastock,,,,,,,,,,,,,,,,alpen-atlas
+n26862778,peak,Dent de Corjon,46.45,7.03584,CH,1966,,,,,,,,,,Q5259381,,,,,,,,,,,,,,,,,alpen-atlas
+n26862780,peak,Dent de Savigny,46.54961,7.22627,CH,2252,,,,,,,,,,Q141470,,,,,,,,,,,,,,,,,alpen-atlas
+n26862792,peak,Doldenhorn,46.46856,7.73496,CH,3638,,,,,,,,,,Q16647,de:Doldenhorn,,,,,,no,no,,,,,,,,,alpen-atlas
+n26862818,peak,Eggishorn,46.43135,8.09423,CH,2926,,,,,,,,,,Q670237,,,,,,,,,,,,,,,,,alpen-atlas
+n26862872,peak,Fleckistock,46.70745,8.49756,CH,3416,,,,,,,,,,Q3073520,,Rot Stock,,,,,,,,,,,,,,,alpen-atlas
+n26862877,peak,Flüela Wisshorn,46.76223,9.96666,CH,3085,,,,,,,,,,Q691113,de:Flüela Wisshorn,,,,,,,yes,,,,,,,,,alpen-atlas
+n26862899,peak,Furggenguetsch,46.78806,7.90177,CH,2197,,,,,,,,,,,,,,,,,yes,,,,,,,,,,alpen-atlas
+n26862914,peak,Gamsberg,47.13528,9.37389,CH,2385,,1358,,,,,,,,Q492689,en:Gamsberg,,,Category:Gamsberg (Ostschweiz),,,,,,,,,,,,,alpen-atlas
+n26862940,peak,Giferspitz,46.45116,7.35321,CH,2542,,,,,,,,,,Q280792,,,,,,,,,,,,,,,,,alpen-atlas
+n26862951,peak,Glogghüs,46.76064,8.26268,CH,2535,,,,,,,,,,Q58283,,,,,,,,,,,,,,,,,alpen-atlas
+n26863013,peak,Grand Combin de Grafeneire,45.93758,7.29922,CH,4314,,1516,,,,,,,,Q15126,,,,,,,,,,,,,,,,,alpen-atlas
+n26863015,peak,Grand Muveran,46.23717,7.12615,CH,3051,,1013,,,,,,,,Q674584,,,,,,,,,,,,,,,,,alpen-atlas
+n26863042,peak,Gross Spannort,46.78667,8.52444,CH,3198,,,,,,,,,,Q674478,,,,,,,,,,,,,,,,,alpen-atlas
+n26863045,peak,Grosses Wannenhorn,46.4934,8.09733,CH,3906,,,,,,,,,,Q378519,,,,,,,,,,,,,,,,,alpen-atlas
+n26863067,peak,Gspaltenhorn,46.51158,7.82727,CH,3436,,,,,,,,,,Q16652,de:Gspaltenhorn,,,,,,,,,,,,,,,,alpen-atlas
+n26863075,peak,Gummfluh,46.44056,7.195,CH,2458,,,,,,,,,,Q672504,,,,,,,,,,,,,,,,,alpen-atlas
+n26863092,peak,Haldensteiner Calanda,46.89991,9.46728,CH,2805,,1460,,,,,,,,Q16529,de:Calanda (Berg),,,,,,,,,,,,,,,,alpen-atlas
+n26863095,peak,Bürgenstock,47.00031,8.39833,CH,1127,,,,,,,,,,Q43246,de:Bürgenstock,Bürgenberg,Hammetschwand,,,,,,,,,,,,,,alpen-atlas
+n26863112,peak,Hausstock,46.87445,9.06555,CH,3158,,,,,,,,,,Q15300,,,,,,,,,,,,,,,,,alpen-atlas
+n26863114,peak,Haute Cime,46.16106,6.92299,CH,3257,2836,1796,1562,19.0,Aiguille du Génépi,est,38.1,,Dents du Midi,Q3128532,fr:Haute Cime,,,,,,,,,,,,,,,"[1135, 1154, 1143, 1115, 1102, 1184, 1370, 1571, 1726, 1826, 1907, 2001, 2102, 2175, 2159, 2116, 2129, 2168, 2261, 2411, 2629, 2880, 3084, 3096, 2772, 2742, 2725, 2689, 2615, 2559, 2518, 2479, 2457, 2433, 2368, 2389, 2518, 2597, 2494, 2246, 2011, 1879, 1785, 1724, 1710, 1755, 1823, 1874]",alpen-atlas+atlas-montagne
+n26863136,peak,Helsenhorn,46.3048,8.19169,CH,3272,,,,,,,,,,Q691933,,,,,,,,,,,,,,,,,alpen-atlas
+n26863472,peak,L'Evêque,45.96441,7.50275,CH,3716,,,,,,,,,,Q2575005,,,,,,,,,,,,,,,,,alpen-atlas
+n26863486,peak,La Ruinette,45.97917,7.40027,CH,3875,,,,,,,,,,Q669713,,,,,,,,,,,,,,,,,alpen-atlas
+n26863517,peak,Le Catogne,46.05417,7.11083,CH,2598,,1100,,,,,,,,Q1761382,,,,,,,,,,,,,,,,,alpen-atlas
+n26863534,peak,La Tarent,46.38207,7.14754,CH,2548,,1002,,,,,,,,Q1750006,,,,,,,,,,,,,,,,,alpen-atlas
+n26863582,peak,Madone Grosso,46.36672,8.83126,CH,2746,,,,,,,,,,Q674594,it:Madone Grosso,,,,,,,,,,,,,,,,alpen-atlas
+n26863583,peak,Madrisahorn,46.93111,9.87222,CH,2826,,,,,,,,,,Q869976,,,,,,,,,,,,,,,,,alpen-atlas
+n26863664,peak,Matterhorn,45.97643,7.6586,CH,4478,,1038,,,,,,,,Q1374,it:Cervino,Cervino,,,,,,,,,,,,,,,alpen-atlas
+n26863705,peak,Mittelhorn,46.63504,8.12474,CH,3704,,,,,,,,,,Q368948,,,,,,,,,,,,,,,,,alpen-atlas
+n26863725,peak,Mont de l'Arpille,46.07713,7.00651,CH,2085,2068,,1219,3.4,Croix de Prélayes,est,19.3,,,Q6903121,,,,,,,,,,,,,,,,"[2260, 2121, 1994, 1895, 1796, 1707, 1603, 1470, 1384, 1282, 1110, 994, 996, 1043, 1132, 1264, 1432, 1576, 1610, 1628, 1735, 1876, 2002, 2055, 1910, 1762, 1600, 1433, 1305, 1199, 1111, 1019, 916, 853, 845, 864, 836, 730, 618, 550, 553, 651, 745, 739, 696, 674, 640, 617]",alpen-atlas+atlas-montagne
+n26863729,peak,Mont Gelé,45.90414,7.3659,CH,3518,,,,,,,,,,Q674012,it:Monte Gelé,,,,,,yes,,,,,,,,,,alpen-atlas
+n26863887,peak,Monte Limidario,46.12338,8.64808,CH,2189,,1231,,,,,,,,Q155031,it:Monte Limidario,Gridone,,,,,yes,,,,,,,,,,alpen-atlas
+n26863957,peak,Monte San Giorgio,45.91376,8.94989,CH,1097,,,,,,,,,,Q16648,it:Monte San Giorgio (Cantone Ticino),,,,,,no,no,,,,,,,,,alpen-atlas
+n26863960,peak,Monte San Salvatore,45.97711,8.9473,CH,912,,,,,,,,,,Q16543,it:Monte San Salvatore (Svizzera),,,,,,,,,,,,,,,,alpen-atlas
+n26863984,peak,Monte Tamaro,46.10389,8.86603,CH,1961,,1408,,,,,,,,Q15285,it:Monte Tamaro,,,,,,,,,,,,,,,,alpen-atlas
+n26864008,peak,Monte Zucchero,46.35417,8.71417,CH,2736,,,,,,,,,,Q1764810,it:Monte Zucchero,,,,,,,,,,,,,,,,alpen-atlas
+n26864026,peak,Ruchen,47.0701,9.14416,CH,2441,,,,,,,,,,Q22474429,,,,,,,,,,,,,,,,,alpen-atlas
+n26864039,peak,Mutteristock,47.04874,8.94277,CH,2294,,,,,,,,,,Q141486,,,,,,,,,,,,,,,,,alpen-atlas
+n26864040,peak,Muttler,46.90066,10.37873,CH,3294,,,,,,,,,,Q473561,en:Muttler,,,,,,,,,,,,,,,,alpen-atlas
+n26864059,peak,Nesthorn,46.41307,7.92593,CH,3822,,,,,,,,,,Q16541,,,,,,,,,,,,,,,,,alpen-atlas
+n26864108,peak,Oberalpstock,46.74268,8.76953,CH,3328,,,,,,,,,,Q15295,,,,,,,,,,,,,,,,,alpen-atlas
+n26864284,peak,Piz Bernina,46.38243,9.90805,CH,4048,,2234,,,,,,,,Q15132,it:Pizzo Bernina,,,,,,,,,,,,,,,,alpen-atlas
+n26864286,peak,Tschima da Flix - Westgipfel,46.52175,9.69953,CH,3301,,,,,,,,,,,,,,,,,,yes,,,,,,,,,alpen-atlas
+n26864288,peak,Piz Daint,46.61875,10.29094,CH,2968,,,,,,,,,,Q16612,,,,,,,,,,,,,,,,,alpen-atlas
+n26864293,peak,Piz Forbesch,46.52039,9.55918,CH,3262,,,,,,,,,,Q16634,,,,,,,,,,,,,,,,,alpen-atlas
+n26864294,peak,Piz Gannaretsch,46.61194,8.78667,CH,3039,,,,,,,,,,Q6979838,,,,,,,,,,,,,,,,,alpen-atlas
+n26864296,peak,Piz Lagrev,46.44583,9.72278,CH,3170,,,,,,,,,,Q3905939,,,,,,,,,,,,,,,,,alpen-atlas
+n26864297,peak,Piz Languard,46.48845,9.95652,CH,3261,,947,,,,,,,,Q176231,en:Piz Languard,,,,,,,,,,,,,,,,alpen-atlas
+n26864298,peak,Piz Linard,46.79897,10.07144,CH,3410,,1027,,,,,,,,Q675543,en:Piz Linard,,,,,,,,,,,,,,,,alpen-atlas
+n26864299,peak,Piz Medel,46.61825,8.91116,CH,3209,,,,,,,,,,Q674825,it:Piz Medel,,,,,,,,,,,,,,,,alpen-atlas
+n26864300,peak,Piz Minor,46.45111,10.02832,CH,3049,,,,,,,,,,Q7199859,en:Piz Minor,,,,,,,,,,,,,,,,alpen-atlas
+n26864301,peak,Piz Murtaröl,46.57028,10.2875,CH,3180,,,,,,,,,,Q692106,de:Piz Murtaröl,,,,,,,,,,,,,,,,alpen-atlas
+n26864302,peak,Piz Ot,46.54325,9.81003,CH,3246,,,,,,,,,,Q2736780,,,,,,,yes,,,,,,,,,,alpen-atlas
+n26864303,peak,Piz Paradisin,46.42601,10.11725,CH,3302,,,,,,,,,,Q2413571,de:Piz Paradisin,Corna Di Campo,,,,,,,,,,,,,,,alpen-atlas
+n26864304,peak,Piz Pisoc,46.74444,10.27944,CH,3173,,,,,,,,,,Q670183,,,,,,,,,,,,,,,,,alpen-atlas
+n26864305,peak,Piz Platta,46.48722,9.56167,CH,3392,,1108,,,,,,,,Q674333,,,,,,,,,,,,,,,,,alpen-atlas
+n26864307,peak,Piz S-chalambert Dadaint,46.80084,10.41333,CH,3031,,,,,,,,,,Q7199885,de:Piz S-chalambert Dadaint,,,,,,,,,,,,,,,,alpen-atlas
+n26864308,peak,Piz Segnas,46.9079,9.23969,CH,3098,,,,,,,,,,Q16631,de:Piz Segnas,,,,,,,,,,,,,,,,alpen-atlas
+n26864310,peak,Piz Starlex,46.66275,10.39255,CH,3075,,,,,,,,,,Q7199902,,,,,,,yes,,,,,,,,,,alpen-atlas
+n26864311,peak,Piz Tavrü,46.67916,10.2961,CH,3168,,,,,,,,,,Q3905947,de:Piz Tavrü,,,,,,,,,,,,,,,,alpen-atlas
+n26864313,peak,Piz Vadret,46.68703,9.9627,CH,3229,,,,,,,,,,Q3695822,de:Piz Vadret,,,,,,,,,,,,,,,,alpen-atlas
+n26864319,peak,Pizzo del Sole,46.52507,8.76789,CH,2773,,,,,,,,,,Q1764791,it:Pizzo del Sole,Pizzo Sole,,,,,,,,,,,,,,,alpen-atlas
+n26864325,peak,Pizzo Rotondo,46.5177,8.46618,CH,3192,,,,,,,,,,Q692038,it:Pizzo Rotondo (Canton Ticino),,,,,,,,,,,,,,,,alpen-atlas
+n26864373,peak,Pizzo Cervandone,46.32414,8.22306,CH,3210,,,,,,,,,,Q1152462,it:Monte Cervandone,,,,,,,,,,,,,,,,alpen-atlas
+n26864441,peak,Adula - Rheinwaldhorn,46.49375,9.04021,CH,3402,,1337,,,,,,,,Q15135,it:Adula,,,,,,,,,,,,,,,,alpen-atlas
+n26864447,peak,Rigi,47.05668,8.48526,CH,1797,,1289,,,,,,,,Q15291,de:Rigi,,,,,,no,no,,,,,,,,,alpen-atlas
+n26864448,peak,Rimpfischhorn,46.02313,7.88396,CH,4198,,641,,,,,,,,Q30455,en:Rimpfischhorn,,,,,,yes,,,,,,,,,,alpen-atlas
+n26864449,peak,Ringelspitz,46.89833,9.34306,CH,3247,,,,,,,,,,Q15137,,,,,,,,,,,,,,,,,alpen-atlas
+n26864467,peak,Rochers de Naye,46.43182,6.97605,CH,2042,,,,,,,,,,Q676030,,,,,,,,,,,,,,,,,alpen-atlas
+n26864480,peak,Rosso di Ribia,46.25935,8.52617,CH,2541,,,,,,,,,,Q7369912,,,,,,,,,,,,,,,,,alpen-atlas
+n26864510,peak,Säntis,47.24944,9.34324,CH,2502,,2022,,,,,,,,Q15224,de:Säntis,,,,,,,,,,,,,,,,alpen-atlas
+n26864546,peak,Schächentaler Windgällen,46.88798,8.79173,CH,2764,,,,,,,,,,Q3647291,,Höch Windgällen,,,,,,,,,,,,,,,alpen-atlas
+n26864547,peak,Schafberg,46.63702,7.31642,CH,2239,,,,,,,,,,Q7430907,,,,,,,yes,,,,,,,,,,alpen-atlas
+n26864549,peak,Piz Giuv,46.70194,8.6925,CH,3096,,,,,,,,,,Q43294,,,,,,,,,,,,,,,,,alpen-atlas
+n26864560,peak,Schwarzhoren,46.68611,8.07556,CH,2927,,,,,,,,,,Q669809,de:Schwarzhorn (Berner Alpen),Schwarzhorn,,,,,,,,,,,,,,,alpen-atlas
+n26864561,peak,Schwarzhorn,46.7358,9.94175,CH,3147,,,,,,,,,,Q691093,de:Schwarzhorn (Flüelapass),,,,,,,,,,,,,,,,alpen-atlas
+n26864563,peak,Scopi,46.5717,8.82999,CH,3190,,,,,,,,,,Q593551,it:Scopi,,,,,,yes,,,,,,,,,,alpen-atlas
+n26864564,peak,Seehorn,46.18238,8.11586,CH,2439,,,,,,,,,,Q660920,,,,,,,,,,,,,,,,,alpen-atlas
+n26864776,peak,Stätzer Horn,46.75599,9.51232,CH,2574,,1027,,,,,,,,Q670198,,,,,,,,,,,,,,,,,alpen-atlas
+n26864791,peak,Stellihorn,46.03607,8.00104,CH,3436,,,,,,,,,,Q674531,,,,,,,,,,,,,,,,,alpen-atlas
+n26864921,peak,Titlis,46.77203,8.43781,CH,3238,,,,,,,,,,Q15138,,,Tutilinesberc,,,,,,,,,,,,,,alpen-atlas
+n26864931,peak,Tödi,46.81115,8.91486,CH,3614,,1570,,,,,,,,Q15134,,,,,,,,,,,,,,,,,alpen-atlas
+n26864935,peak,Tomlishorn,46.97391,8.24122,CH,2128,,,,,,,,,,Q15267,de:Tomlishorn,,,,,,,,,,,,,,,,alpen-atlas
+n26864944,peak,Torent Alto,46.34361,9.07112,CH,2948,,,,,,,,,,Q2783901,it:Torrone Alto,Torrone Alto,,,,,,,,,,,,,,,alpen-atlas
+n26864948,peak,Tour d'Aï,46.3721,7.00197,CH,2330,2189,,950,17.2,Tête de Lanche Noir,sud-est,12.5,,,Q675673,,,,,,,,,,,,,,,,"[931, 1020, 1092, 1172, 1253, 1341, 1435, 1496, 1526, 1542, 1529, 1522, 1550, 1599, 1656, 1702, 1756, 1831, 1869, 1895, 1952, 2034, 2108, 2134, 2073, 2027, 1989, 1978, 1951, 1871, 1759, 1666, 1637, 1644, 1627, 1596, 1546, 1490, 1425, 1341, 1257, 1200, 1189, 1231, 1294, 1341, 1365, 1378]",alpen-atlas+atlas-montagne
+n26864949,peak,Tour Sallière,46.12695,6.92473,CH,3220,3125,,1346,3.8,Haute Cime,sud-est,9.5,,,Q2630276,,Tour Salière,,,,,,,,,,,,,,"[2317, 2334, 2375, 2425, 2454, 2456, 2452, 2439, 2452, 2537, 2641, 2692, 2687, 2688, 2747, 2810, 2822, 2821, 2810, 2788, 2769, 2796, 2891, 2996, 2964, 2837, 2718, 2615, 2478, 2308, 2119, 1979, 1971, 2059, 2136, 2205, 2292, 2353, 2374, 2354, 2367, 2398, 2327, 2215, 2164, 2126, 2082, 2058]",alpen-atlas+atlas-montagne
+n26865116,peak,Vordere Loner,46.46194,7.6,CH,3049,,,,,,,,,,,,,,,,,,,,,,,,,,,alpen-atlas
+n26865133,peak,Weissmies,46.12768,8.01198,CH,4011,,1179,,,,,,,,Q30529,,,,,,,,,,,,,,,,,alpen-atlas

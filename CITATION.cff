@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and credit the original source."
+title: "Peaks, Passes & Viewpoints: DE AT CH FR (OSM+IGN)"
+type: dataset
+authors:
+  - family-names: "Bousquet"
+    given-names: "Henri"
+abstract: "Search about 115,000 summits, mountain passes and viewpoints in Germany, Austria, Switzerland and France from OpenStreetMap, with elevation, prominence, local relief, isolation and IGN altitude. Embedded data, no scraping, pay per record."
+url: "https://apify.com/phonic_lily/alps-peaks-and-passes"
+repository-code: "https://github.com/adminglobalcostdata/alps-peaks-and-passes"
+date-released: 2026-11-10
+keywords:
+  - open-data
+  - dataset
+  - json
+  - jsonl
+  - apify
+  - apify-actor
+  - data-api
+  - alps
